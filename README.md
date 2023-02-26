@@ -1,11 +1,11 @@
 # Introduction:
 The purpose of this proposal is to present a plan for a collaborative effort to build an open-source project that involves:
-cloning and improving the TechCrunch website from scratch using the MERN stack. 
+creating a blog website from scratch using the MERN stack. 
 The MERN stack is a powerful and versatile toolset that combines MongoDB, Express.js, React, and Node.js. 
 By working on this project, we aim to enhance our skills and understanding of these technologies while also contributing to the open-source community.
 
 ## Project Scope:
-The project will involve cloning the TechCrunch website using the MERN stack, starting with a simple layout and gradually adding features and functionality
+The project will involve cloning the Blog website using the MERN stack, starting with a simple layout and gradually adding features and functionality
 The project will be divided into several milestones, each focused on a particular aspect of the website. 
 We will work on each milestone sequentially, with each milestone building on the previous one.
 
